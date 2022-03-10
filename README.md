@@ -45,4 +45,5 @@
 ## 📃 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Hello World&quot; | Set-Content blog](https://aldrichtr.github.io/posts/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
