@@ -45,5 +45,6 @@
 ## 📃 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Hello World&quot; | Set-Content blog](https://aldrichtr.github.io/posts/my-first-post/)
+- [Infrastructure Testing With Pester](https://aldrichtr.github.io/post/infrastructure-testing-with-pester/)
+- [&quot;Hello World&quot; | Set-Content blog](https://aldrichtr.github.io/post/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
