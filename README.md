@@ -1,20 +1,36 @@
-# 👋 Hi, I'm Tim Aldrich (he/him/his)
+# 👋 Hi, I'm Tim Aldrich 
+> (he/him/his)
 
-🚧 I've just started to create this profile page, so It's a little lean
+Contact me on:
+<a href="https://www.linkedin.com/in/timothy-r-aldrich/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMS0i193dS%2Fi6SvBKYxyEnQ%3D%3D">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+---
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=aldrichtr.aldrichtr)
 
 ## 👨‍💻 About Me
 
-- I'm currently working as an Information Security Engineer
 - I've been in IT for over 20 years
+- I'm currently working as an Information Security Engineer
 - I love automating processes
 
 ## 🛠️ Projects I’m currently working on:
 
-- [PSOrgMode](https://github.com/aldrichtr/PSOrgMode) : A PowerShell module for working with [org-mode](https://orgmode.org)
-- [infraspective](https://github.com/aldrichtr/infraspective) : A PowerShell module for Infrastructure Testing
-- [tangld](https://github.com/aldrichtr/tangld) : A package for turning Emacs into a literate configuration IDE
+<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+
+<!--GITHUB_ACTIVITY:{"rows": 7, "raw": true}-->
+
+
+<!--
+  Configuration for the Github stats widget:
+  https://github.com/anuraghazra/github-readme-stats
+-->
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=aldrichtr&count_private=true&show=prs_merged,reviews&show_icons=true&theme=onedark)
 
 ## Technologies I 💖
+
+
+
 <!--
   these urls are helpful in creating these:
   https://simpleicons.org/
@@ -35,6 +51,9 @@
 
 ![powershell](https://img.shields.io/badge/powershell-282C34?logo=powershell&style=plastic)
 ![python](https://img.shields.io/badge/python-282C34?logo=python&style=282C34plastic)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrichtr&layout=donut-vertical&theme=onedark)
+
 ## 📚 Things I'm learning
 
 ![chef](https://img.shields.io/badge/chef-282C34?logo=chef&style=plastic)
