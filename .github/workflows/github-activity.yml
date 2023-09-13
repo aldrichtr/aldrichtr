@@ -18,7 +18,7 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
       - name: Update GitHub Activity Sections
-        uses: Readme-Workflows/recent-activity@2.4.1
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_FILE: './.github/recent-activity.config.yml'
