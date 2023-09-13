@@ -1,0 +1,24 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update:
+    name: Update activity in profile README
+    runs-on: ubuntu-latest
+    permissions:
+        contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Update GitHub Activity Sections
+        uses: Readme-Workflows/recent-activity@@2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONFIG_FILE: './.github/recent-activity.config.yml'
