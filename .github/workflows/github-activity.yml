@@ -12,9 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false
-          fetch-depth: 0
       - name: Update GitHub Activity Sections
         uses: Readme-Workflows/recent-activity@main
         env:
