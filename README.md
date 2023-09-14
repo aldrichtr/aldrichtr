@@ -65,8 +65,9 @@ Contact me on:
 ## 📃 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure Testing With Pester](https://aldrichtr.github.io/post/infrastructure-testing-with-pester/)
-- [&quot;Hello World&quot; | Set-Content blog](https://aldrichtr.github.io/post/my-first-post/)
+- [Auditing Standards and Frameworks](https://aldrichtr.github.io/posts/auditing-standards-and-frameworks/)
+- [Infrastructure Testing With Pester](https://aldrichtr.github.io/posts/infrastructure-testing-with-pester/)
+- [&quot;Hello World&quot; | Set-Content blog](https://aldrichtr.github.io/posts/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
