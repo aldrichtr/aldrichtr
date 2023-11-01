@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sebastienros/fluid](https://github.com/sebastienros/fluid)<br>
-2. ⭐ Starred [Abc-Arbitrage/ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog)<br>
-3. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)<br>
-4. ❗️ Opened issue [#56](https://github.com/aldrichtr/stitch/issues/56) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-5. 💪 Opened PR [#55](https://github.com/aldrichtr/stitch/pull/55) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-6. ❗️ Opened issue [#54](https://github.com/aldrichtr/stitch/issues/54) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-7. 💬 Commented on [#53](https://github.com/aldrichtr/stitch/pull/53#issuecomment-1785933767) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-8. ⬆️ Pushed 2 commit(s) to [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-9. ⬆️ Pushed 1 commit(s) to [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-10. 💪 Opened PR [#53](https://github.com/aldrichtr/stitch/pull/53) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
+1. ⭐ Starred [Atulin/Markdig-Extensions](https://github.com/Atulin/Markdig-Extensions)<br>
+2. ⭐ Starred [gogbg/PSMarkdig](https://github.com/gogbg/PSMarkdig)<br>
+3. ⭐ Starred [generateui/MarkdownExtensions](https://github.com/generateui/MarkdownExtensions)<br>
+4. ⭐ Starred [sebastienros/fluid](https://github.com/sebastienros/fluid)<br>
+5. ⭐ Starred [Abc-Arbitrage/ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog)<br>
+6. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)<br>
+7. ❗️ Opened issue [#56](https://github.com/aldrichtr/stitch/issues/56) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
+8. 💪 Opened PR [#55](https://github.com/aldrichtr/stitch/pull/55) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
+9. ❗️ Opened issue [#54](https://github.com/aldrichtr/stitch/issues/54) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
+10. 💬 Commented on [#53](https://github.com/aldrichtr/stitch/pull/53#issuecomment-1785933767) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 31st, 2023, 1:16:43 AM
+Last Updated: Wednesday, November 1st, 2023, 1:17:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
