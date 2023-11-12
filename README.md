@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#40](https://github.com/aldrichtr/stencil/pull/40) in [aldrichtr/stencil](https://github.com/aldrichtr/stencil)<br>
-2. ⬆️ Pushed 2 commit(s) to [aldrichtr/stencil](https://github.com/aldrichtr/stencil)<br>
-3. ⭐ Starred [bojanrajkovic/MarkdigConfluenceExtensions](https://github.com/bojanrajkovic/MarkdigConfluenceExtensions)<br>
-4. ⭐ Starred [slap-editor/slap](https://github.com/slap-editor/slap)<br>
-5. ⭐ Starred [srijanshetty/snips](https://github.com/srijanshetty/snips)<br>
-6. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)<br>
-7. ⭐ Starred [mchav/with](https://github.com/mchav/with)<br>
-8. ⬆️ Pushed 1 commit(s) to [aldrichtr/vault.amrev](https://github.com/aldrichtr/vault.amrev)<br>
-9. 💬 Commented on [#53](https://github.com/aldrichtr/stitch/pull/53#issuecomment-1791579493) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-10. ⭐ Starred [SamErde/Profile-Evicter](https://github.com/SamErde/Profile-Evicter)<br>
+1. ⭐ Starred [DomainGroupOSS/bartender](https://github.com/DomainGroupOSS/bartender)<br>
+2. ⭐ Starred [stopthatastronaut/bartender](https://github.com/stopthatastronaut/bartender)<br>
+3. ⭐ Starred [stopthatastronaut/poshdotenv](https://github.com/stopthatastronaut/poshdotenv)<br>
+4. ⭐ Starred [torgro/PesterHelper](https://github.com/torgro/PesterHelper)<br>
+5. ⭐ Starred [JimMoyle/PowerShellStandards.Pester](https://github.com/JimMoyle/PowerShellStandards.Pester)<br>
+6. ⭐ Starred [marckassay/PowerBolt](https://github.com/marckassay/PowerBolt)<br>
+7. ⭐ Starred [BrandonLundt/PesterExams](https://github.com/BrandonLundt/PesterExams)<br>
+8. ⭐ Starred [GoEddie/PestWatch](https://github.com/GoEddie/PestWatch)<br>
+9. ⭐ Starred [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound)<br>
+10. ⭐ Starred [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 8th, 2023, 1:16:45 AM
+Last Updated: Sunday, November 12th, 2023, 7:41:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
