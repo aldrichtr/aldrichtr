@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AndrewPla/PowerShellCookbook](https://github.com/AndrewPla/PowerShellCookbook)<br>
-2. ⭐ Starred [AndrewPla/PowerShell-Toolery-and-Foolery](https://github.com/AndrewPla/PowerShell-Toolery-and-Foolery)<br>
-3. ❗️ Opened issue [#1867](https://github.com/whitphx/vscode-emacs-mcx/issues/1867) in [whitphx/vscode-emacs-mcx](https://github.com/whitphx/vscode-emacs-mcx)<br>
-4. 🔱 Forked [aldrichtr/Sewing_Tutorials](https://github.com/aldrichtr/Sewing_Tutorials) from [micgear/Sewing_Tutorials](https://github.com/micgear/Sewing_Tutorials)<br>
-5. ⭐ Starred [microsoft/Security-101](https://github.com/microsoft/Security-101)<br>
-6. ⭐ Starred [microsoft/Network-Performance-Visualization](https://github.com/microsoft/Network-Performance-Visualization)<br>
-7. ⭐ Starred [microsoft/New-KrbtgtKeys.ps1](https://github.com/microsoft/New-KrbtgtKeys.ps1)<br>
-8. ⭐ Starred [microsoft/ODAResources](https://github.com/microsoft/ODAResources)<br>
-9. ⭐ Starred [microsoft/PAWTools](https://github.com/microsoft/PAWTools)<br>
-10. ⭐ Starred [microsoft/Requirements](https://github.com/microsoft/Requirements)<br>
+1. ⭐ Starred [SeeminglyScience/PSClassHelpExample](https://github.com/SeeminglyScience/PSClassHelpExample)<br>
+2. ⭐ Starred [SeeminglyScience/PSWriteline](https://github.com/SeeminglyScience/PSWriteline)<br>
+3. ⭐ Starred [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App)<br>
+4. ⭐ Starred [xwmx/nb](https://github.com/xwmx/nb)<br>
+5. ⬆️ Pushed 2 commit(s) to [aldrichtr/aldrichtr.github.io](https://github.com/aldrichtr/aldrichtr.github.io)<br>
+6. ❗️ Opened issue [#5](https://github.com/aldrichtr/AnalyzerRules/issues/5) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+7. ⭐ Starred [AndrewPla/PowerShellCookbook](https://github.com/AndrewPla/PowerShellCookbook)<br>
+8. ⭐ Starred [AndrewPla/PowerShell-Toolery-and-Foolery](https://github.com/AndrewPla/PowerShell-Toolery-and-Foolery)<br>
+9. ❗️ Opened issue [#1867](https://github.com/whitphx/vscode-emacs-mcx/issues/1867) in [whitphx/vscode-emacs-mcx](https://github.com/whitphx/vscode-emacs-mcx)<br>
+10. 🔱 Forked [aldrichtr/Sewing_Tutorials](https://github.com/aldrichtr/Sewing_Tutorials) from [micgear/Sewing_Tutorials](https://github.com/micgear/Sewing_Tutorials)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 3rd, 2024, 7:38:40 AM
+Last Updated: Sunday, March 10th, 2024, 7:37:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
