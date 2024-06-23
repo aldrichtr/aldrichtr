@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [glepnir/nvim](https://github.com/glepnir/nvim)<br>
-2. ⭐ Starred [microsoft/sudo](https://github.com/microsoft/sudo)<br>
-3. ⭐ Starred [JustinGrote/Super-Duper-Linter](https://github.com/JustinGrote/Super-Duper-Linter)<br>
-4. ⭐ Starred [JustinGrote/PowerConfig](https://github.com/JustinGrote/PowerConfig)<br>
-5. ⭐ Starred [JustinGrote/ScriptPredictor](https://github.com/JustinGrote/ScriptPredictor)<br>
-6. ⭐ Starred [JustinGrote/PoshAnywhere](https://github.com/JustinGrote/PoshAnywhere)<br>
-7. ⭐ Starred [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core)<br>
-8. ❗️ Opened issue [#19](https://github.com/aldrichtr/AnalyzerRules/issues/19) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-9. ❗️ Opened issue [#18](https://github.com/aldrichtr/AnalyzerRules/issues/18) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-10. ❗️ Opened issue [#17](https://github.com/aldrichtr/AnalyzerRules/issues/17) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+1. ⭐ Starred [joshmu/periscope](https://github.com/joshmu/periscope)<br>
+2. ⭐ Starred [glepnir/nvim](https://github.com/glepnir/nvim)<br>
+3. ⭐ Starred [microsoft/sudo](https://github.com/microsoft/sudo)<br>
+4. ⭐ Starred [JustinGrote/Super-Duper-Linter](https://github.com/JustinGrote/Super-Duper-Linter)<br>
+5. ⭐ Starred [JustinGrote/PowerConfig](https://github.com/JustinGrote/PowerConfig)<br>
+6. ⭐ Starred [JustinGrote/ScriptPredictor](https://github.com/JustinGrote/ScriptPredictor)<br>
+7. ⭐ Starred [JustinGrote/PoshAnywhere](https://github.com/JustinGrote/PoshAnywhere)<br>
+8. ⭐ Starred [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core)<br>
+9. ❗️ Opened issue [#19](https://github.com/aldrichtr/AnalyzerRules/issues/19) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+10. ❗️ Opened issue [#18](https://github.com/aldrichtr/AnalyzerRules/issues/18) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 16th, 2024, 7:44:32 AM
+Last Updated: Sunday, June 23rd, 2024, 7:44:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
