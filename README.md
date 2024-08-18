@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [aldrichtr/mddb](https://github.com/aldrichtr/mddb)<br>
-2. ⬆️ Pushed 1 commit(s) to [aldrichtr/mddb](https://github.com/aldrichtr/mddb)<br>
+1. ⭐ Starred [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst)<br>
+2. ⭐ Starred [scrumlens/scrumlens](https://github.com/scrumlens/scrumlens)<br>
 3. ⬆️ Pushed 1 commit(s) to [aldrichtr/mddb](https://github.com/aldrichtr/mddb)<br>
-4. ⭐ Starred [da-rth/yasb](https://github.com/da-rth/yasb)<br>
-5. ⭐ Starred [glzr-io/glazewm](https://github.com/glzr-io/glazewm)<br>
+4. ⬆️ Pushed 1 commit(s) to [aldrichtr/mddb](https://github.com/aldrichtr/mddb)<br>
+5. ⬆️ Pushed 1 commit(s) to [aldrichtr/mddb](https://github.com/aldrichtr/mddb)<br>
 6. ⬆️ Pushed 1 commit(s) to [aldrichtr/mddb](https://github.com/aldrichtr/mddb)<br>
 7. ⬆️ Pushed 1 commit(s) to [aldrichtr/mddb](https://github.com/aldrichtr/mddb)<br>
 8. ⬆️ Pushed 1 commit(s) to [aldrichtr/mddb](https://github.com/aldrichtr/mddb)<br>
-9. ⭐ Starred [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook)<br>
+9. ⬆️ Pushed 1 commit(s) to [aldrichtr/mddb](https://github.com/aldrichtr/mddb)<br>
 10. ⬆️ Pushed 1 commit(s) to [aldrichtr/mddb](https://github.com/aldrichtr/mddb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 11th, 2024, 7:46:16 AM
+Last Updated: Sunday, August 18th, 2024, 7:46:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
