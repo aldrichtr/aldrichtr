@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [floydawong/lua-patterns](https://github.com/floydawong/lua-patterns)<br>
-2. ⭐ Starred [actboy168/nanoid.lua](https://github.com/actboy168/nanoid.lua)<br>
-3. ❌ Closed PR [#1](https://github.com/aldrichtr/vtask/pull/1) in [aldrichtr/vtask](https://github.com/aldrichtr/vtask)<br>
-4. ⬆️ Pushed 1 commit(s) to [aldrichtr/vtask](https://github.com/aldrichtr/vtask)<br>
-5. ⭐ Starred [nrnrnr/noweb](https://github.com/nrnrnr/noweb)<br>
-6. ⭐ Starred [ascherer/cweb](https://github.com/ascherer/cweb)<br>
-7. ⭐ Starred [sharkdp/bat](https://github.com/sharkdp/bat)<br>
-8. ⭐ Starred [chrisant996/clink](https://github.com/chrisant996/clink)<br>
-9. ⭐ Starred [nikitarevenco/dotfiles](https://github.com/nikitarevenco/dotfiles)<br>
-10. ⭐ Starred [vhp/terminal_velocity](https://github.com/vhp/terminal_velocity)<br>
+1. ⭐ Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)<br>
+2. ⭐ Starred [floydawong/lua-patterns](https://github.com/floydawong/lua-patterns)<br>
+3. ⭐ Starred [actboy168/nanoid.lua](https://github.com/actboy168/nanoid.lua)<br>
+4. ❌ Closed PR [#1](https://github.com/aldrichtr/vtask/pull/1) in [aldrichtr/vtask](https://github.com/aldrichtr/vtask)<br>
+5. ⬆️ Pushed 1 commit(s) to [aldrichtr/vtask](https://github.com/aldrichtr/vtask)<br>
+6. ⭐ Starred [nrnrnr/noweb](https://github.com/nrnrnr/noweb)<br>
+7. ⭐ Starred [ascherer/cweb](https://github.com/ascherer/cweb)<br>
+8. ⭐ Starred [sharkdp/bat](https://github.com/sharkdp/bat)<br>
+9. ⭐ Starred [chrisant996/clink](https://github.com/chrisant996/clink)<br>
+10. ⭐ Starred [nikitarevenco/dotfiles](https://github.com/nikitarevenco/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 3rd, 2024, 7:49:23 AM
+Last Updated: Sunday, November 10th, 2024, 7:48:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
