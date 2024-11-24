@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nvzone/volt](https://github.com/nvzone/volt)<br>
-2. ⭐ Starred [Pheon-Dev/pigeon](https://github.com/Pheon-Dev/pigeon)<br>
-3. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
-4. ⭐ Starred [ad-si/RosettaGit](https://github.com/ad-si/RosettaGit)<br>
-5. ⭐ Starred [ad-si/TaskLite](https://github.com/ad-si/TaskLite)<br>
-6. ⭐ Starred [dagraham/etm-dgraham](https://github.com/dagraham/etm-dgraham)<br>
-7. ⭐ Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)<br>
-8. ⭐ Starred [floydawong/lua-patterns](https://github.com/floydawong/lua-patterns)<br>
-9. ⭐ Starred [actboy168/nanoid.lua](https://github.com/actboy168/nanoid.lua)<br>
-10. ❌ Closed PR [#1](https://github.com/aldrichtr/vtask/pull/1) in [aldrichtr/vtask](https://github.com/aldrichtr/vtask)<br>
+1. 🔱 Forked [aldrichtr/logseq-plugin-starter-template](https://github.com/aldrichtr/logseq-plugin-starter-template) from [sawhney17/logseq-plugin-starter-template](https://github.com/sawhney17/logseq-plugin-starter-template)<br>
+2. ⭐ Starred [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim)<br>
+3. ⭐ Starred [nvzone/volt](https://github.com/nvzone/volt)<br>
+4. ⭐ Starred [Pheon-Dev/pigeon](https://github.com/Pheon-Dev/pigeon)<br>
+5. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
+6. ⭐ Starred [ad-si/RosettaGit](https://github.com/ad-si/RosettaGit)<br>
+7. ⭐ Starred [ad-si/TaskLite](https://github.com/ad-si/TaskLite)<br>
+8. ⭐ Starred [dagraham/etm-dgraham](https://github.com/dagraham/etm-dgraham)<br>
+9. ⭐ Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)<br>
+10. ⭐ Starred [floydawong/lua-patterns](https://github.com/floydawong/lua-patterns)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 17th, 2024, 7:51:06 AM
+Last Updated: Sunday, November 24th, 2024, 7:52:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
