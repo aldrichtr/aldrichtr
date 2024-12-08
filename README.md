@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [szkiba/mdcode](https://github.com/szkiba/mdcode)<br>
-2. ⭐ Starred [jgm/lcmark](https://github.com/jgm/lcmark)<br>
-3. 🔱 Forked [aldrichtr/logseq-plugin-starter-template](https://github.com/aldrichtr/logseq-plugin-starter-template) from [sawhney17/logseq-plugin-starter-template](https://github.com/sawhney17/logseq-plugin-starter-template)<br>
-4. ⭐ Starred [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim)<br>
-5. ⭐ Starred [nvzone/volt](https://github.com/nvzone/volt)<br>
-6. ⭐ Starred [Pheon-Dev/pigeon](https://github.com/Pheon-Dev/pigeon)<br>
-7. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
-8. ⭐ Starred [ad-si/RosettaGit](https://github.com/ad-si/RosettaGit)<br>
-9. ⭐ Starred [ad-si/TaskLite](https://github.com/ad-si/TaskLite)<br>
-10. ⭐ Starred [dagraham/etm-dgraham](https://github.com/dagraham/etm-dgraham)<br>
+1. ⭐ Starred [JustinGrote/Press](https://github.com/JustinGrote/Press)<br>
+2. ⭐ Starred [LeoBessin/quiet-velvet](https://github.com/LeoBessin/quiet-velvet)<br>
+3. ⭐ Starred [szkiba/mdcode](https://github.com/szkiba/mdcode)<br>
+4. ⭐ Starred [jgm/lcmark](https://github.com/jgm/lcmark)<br>
+5. 🔱 Forked [aldrichtr/logseq-plugin-starter-template](https://github.com/aldrichtr/logseq-plugin-starter-template) from [sawhney17/logseq-plugin-starter-template](https://github.com/sawhney17/logseq-plugin-starter-template)<br>
+6. ⭐ Starred [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim)<br>
+7. ⭐ Starred [nvzone/volt](https://github.com/nvzone/volt)<br>
+8. ⭐ Starred [Pheon-Dev/pigeon](https://github.com/Pheon-Dev/pigeon)<br>
+9. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
+10. ⭐ Starred [ad-si/RosettaGit](https://github.com/ad-si/RosettaGit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 1st, 2024, 7:53:34 AM
+Last Updated: Sunday, December 8th, 2024, 7:53:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
