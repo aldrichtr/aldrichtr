@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ianxm/emacs-scrum](https://github.com/ianxm/emacs-scrum)<br>
-2. ⭐ Starred [himmAllRight/ry-org-scrum](https://github.com/himmAllRight/ry-org-scrum)<br>
-3. ⭐ Starred [thi-ng/org-spec](https://github.com/thi-ng/org-spec)<br>
-4. ⭐ Starred [simonthum/git-sync](https://github.com/simonthum/git-sync)<br>
-5. ⭐ Starred [JustinGrote/Press](https://github.com/JustinGrote/Press)<br>
-6. ⭐ Starred [LeoBessin/quiet-velvet](https://github.com/LeoBessin/quiet-velvet)<br>
-7. ⭐ Starred [szkiba/mdcode](https://github.com/szkiba/mdcode)<br>
-8. ⭐ Starred [jgm/lcmark](https://github.com/jgm/lcmark)<br>
-9. 🔱 Forked [aldrichtr/logseq-plugin-starter-template](https://github.com/aldrichtr/logseq-plugin-starter-template) from [sawhney17/logseq-plugin-starter-template](https://github.com/sawhney17/logseq-plugin-starter-template)<br>
-10. ⭐ Starred [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim)<br>
+1. ⭐ Starred [dgutov/diff-hl](https://github.com/dgutov/diff-hl)<br>
+2. ⭐ Starred [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo)<br>
+3. ⭐ Starred [schrebra/Problem-Step-Recorder-Plus-Plus](https://github.com/schrebra/Problem-Step-Recorder-Plus-Plus)<br>
+4. ⭐ Starred [merill/bluesky](https://github.com/merill/bluesky)<br>
+5. ⭐ Starred [scynthiadunlop/WritingForDevelopersBook](https://github.com/scynthiadunlop/WritingForDevelopersBook)<br>
+6. ⭐ Starred [jwiegley/use-package](https://github.com/jwiegley/use-package)<br>
+7. ⭐ Starred [emacsmirror/harpoon](https://github.com/emacsmirror/harpoon)<br>
+8. ⭐ Starred [ianxm/emacs-scrum](https://github.com/ianxm/emacs-scrum)<br>
+9. ⭐ Starred [himmAllRight/ry-org-scrum](https://github.com/himmAllRight/ry-org-scrum)<br>
+10. ⭐ Starred [thi-ng/org-spec](https://github.com/thi-ng/org-spec)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 15th, 2024, 7:53:17 AM
+Last Updated: Sunday, December 22nd, 2024, 7:48:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
