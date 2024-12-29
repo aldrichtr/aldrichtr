@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dgutov/diff-hl](https://github.com/dgutov/diff-hl)<br>
-2. ⭐ Starred [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo)<br>
-3. ⭐ Starred [schrebra/Problem-Step-Recorder-Plus-Plus](https://github.com/schrebra/Problem-Step-Recorder-Plus-Plus)<br>
-4. ⭐ Starred [merill/bluesky](https://github.com/merill/bluesky)<br>
-5. ⭐ Starred [scynthiadunlop/WritingForDevelopersBook](https://github.com/scynthiadunlop/WritingForDevelopersBook)<br>
-6. ⭐ Starred [jwiegley/use-package](https://github.com/jwiegley/use-package)<br>
-7. ⭐ Starred [emacsmirror/harpoon](https://github.com/emacsmirror/harpoon)<br>
-8. ⭐ Starred [ianxm/emacs-scrum](https://github.com/ianxm/emacs-scrum)<br>
-9. ⭐ Starred [himmAllRight/ry-org-scrum](https://github.com/himmAllRight/ry-org-scrum)<br>
-10. ⭐ Starred [thi-ng/org-spec](https://github.com/thi-ng/org-spec)<br>
+1. ⭐ Starred [konrad1977/emacs](https://github.com/konrad1977/emacs)<br>
+2. ⭐ Starred [dgutov/diff-hl](https://github.com/dgutov/diff-hl)<br>
+3. ⭐ Starred [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo)<br>
+4. ⭐ Starred [schrebra/Problem-Step-Recorder-Plus-Plus](https://github.com/schrebra/Problem-Step-Recorder-Plus-Plus)<br>
+5. ⭐ Starred [merill/bluesky](https://github.com/merill/bluesky)<br>
+6. ⭐ Starred [scynthiadunlop/WritingForDevelopersBook](https://github.com/scynthiadunlop/WritingForDevelopersBook)<br>
+7. ⭐ Starred [jwiegley/use-package](https://github.com/jwiegley/use-package)<br>
+8. ⭐ Starred [emacsmirror/harpoon](https://github.com/emacsmirror/harpoon)<br>
+9. ⭐ Starred [ianxm/emacs-scrum](https://github.com/ianxm/emacs-scrum)<br>
+10. ⭐ Starred [himmAllRight/ry-org-scrum](https://github.com/himmAllRight/ry-org-scrum)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 22nd, 2024, 7:48:52 AM
+Last Updated: Sunday, December 29th, 2024, 7:49:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
