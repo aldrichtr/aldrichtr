@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [konrad1977/emacs](https://github.com/konrad1977/emacs)<br>
-2. ⭐ Starred [dgutov/diff-hl](https://github.com/dgutov/diff-hl)<br>
-3. ⭐ Starred [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo)<br>
-4. ⭐ Starred [schrebra/Problem-Step-Recorder-Plus-Plus](https://github.com/schrebra/Problem-Step-Recorder-Plus-Plus)<br>
-5. ⭐ Starred [merill/bluesky](https://github.com/merill/bluesky)<br>
-6. ⭐ Starred [scynthiadunlop/WritingForDevelopersBook](https://github.com/scynthiadunlop/WritingForDevelopersBook)<br>
-7. ⭐ Starred [jwiegley/use-package](https://github.com/jwiegley/use-package)<br>
-8. ⭐ Starred [emacsmirror/harpoon](https://github.com/emacsmirror/harpoon)<br>
-9. ⭐ Starred [ianxm/emacs-scrum](https://github.com/ianxm/emacs-scrum)<br>
-10. ⭐ Starred [himmAllRight/ry-org-scrum](https://github.com/himmAllRight/ry-org-scrum)<br>
+1. ⭐ Starred [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)<br>
+2. ⭐ Starred [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)<br>
+3. ⭐ Starred [emacs-dashboard/emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard)<br>
+4. ⭐ Starred [lassik/emacs-format-all-the-code](https://github.com/lassik/emacs-format-all-the-code)<br>
+5. 🔱 Forked [aldrichtr/with-emacs](https://github.com/aldrichtr/with-emacs) from [alphapapa/with-emacs.sh](https://github.com/alphapapa/with-emacs.sh)<br>
+6. ⭐ Starred [GeneKao/orgmode-latex-templates](https://github.com/GeneKao/orgmode-latex-templates)<br>
+7. ⭐ Starred [ariafatah0711/zebar-glazewm](https://github.com/ariafatah0711/zebar-glazewm)<br>
+8. ⭐ Starred [konrad1977/emacs](https://github.com/konrad1977/emacs)<br>
+9. ⭐ Starred [dgutov/diff-hl](https://github.com/dgutov/diff-hl)<br>
+10. ⭐ Starred [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 5th, 2025, 7:49:47 AM
+Last Updated: Sunday, January 12th, 2025, 7:49:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
