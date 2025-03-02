@@ -25,13 +25,10 @@ Contact me on:
 5. ⭐ Starred [kmonad/kmonad](https://github.com/kmonad/kmonad)<br>
 6. ⭐ Starred [jdtsmith/indent-bars](https://github.com/jdtsmith/indent-bars)<br>
 7. ⭐ Starred [kurokirasama/nushell_scripts](https://github.com/kurokirasama/nushell_scripts)<br>
-8. ⭐ Starred [Keychron/qmk_firmware](https://github.com/Keychron/qmk_firmware)<br>
-9. ⬆️ Pushed 5 commit(s) to [aldrichtr/tangld](https://github.com/aldrichtr/tangld)<br>
-10. 🎉 Merged PR [#27](https://github.com/aldrichtr/tangld/pull/27) in [aldrichtr/tangld](https://github.com/aldrichtr/tangld)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 23rd, 2025, 7:49:39 AM
+Last Updated: Sunday, March 2nd, 2025, 7:48:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
