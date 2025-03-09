@@ -21,14 +21,10 @@ Contact me on:
 1. ⭐ Starred [abo-abo/lispy](https://github.com/abo-abo/lispy)<br>
 2. ⭐ Starred [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)<br>
 3. 🔱 Forked [aldrichtr/org-scraps](https://github.com/aldrichtr/org-scraps) from [eschulte/org-scraps](https://github.com/eschulte/org-scraps)<br>
-4. ⭐ Starred [daviwil/dotcrafter.el](https://github.com/daviwil/dotcrafter.el)<br>
-5. ⭐ Starred [kmonad/kmonad](https://github.com/kmonad/kmonad)<br>
-6. ⭐ Starred [jdtsmith/indent-bars](https://github.com/jdtsmith/indent-bars)<br>
-7. ⭐ Starred [kurokirasama/nushell_scripts](https://github.com/kurokirasama/nushell_scripts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 2nd, 2025, 7:48:59 AM
+Last Updated: Sunday, March 9th, 2025, 7:41:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
