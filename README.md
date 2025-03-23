@@ -20,12 +20,10 @@ Contact me on:
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [simendsjo/emacsdotnet](https://github.com/simendsjo/emacsdotnet)<br>
 2. ⭐ Starred [emacs-evil/evil](https://github.com/emacs-evil/evil)<br>
-3. ⭐ Starred [abo-abo/lispy](https://github.com/abo-abo/lispy)<br>
-4. ⭐ Starred [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 16th, 2025, 7:51:05 AM
+Last Updated: Sunday, March 23rd, 2025, 7:51:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
