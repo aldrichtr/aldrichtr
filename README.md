@@ -18,12 +18,13 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [aldrichtr/dendron](https://github.com/aldrichtr/dendron) from [dendronhq/dendron](https://github.com/dendronhq/dendron)<br>
-2. ⭐ Starred [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements)<br>
+1. 🔱 Forked [aldrichtr/overline-zebar](https://github.com/aldrichtr/overline-zebar) from [mushfikurr/overline-zebar](https://github.com/mushfikurr/overline-zebar)<br>
+2. 🔱 Forked [aldrichtr/dendron](https://github.com/aldrichtr/dendron) from [dendronhq/dendron](https://github.com/dendronhq/dendron)<br>
+3. ⭐ Starred [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 4th, 2025, 7:54:50 AM
+Last Updated: Sunday, May 11th, 2025, 7:54:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
