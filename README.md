@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aldrichtr/water](https://github.com/aldrichtr/water)<br>
-2. ⬆️ Pushed undefined commit(s) to [aldrichtr/water](https://github.com/aldrichtr/water)<br>
-3. 💪 Opened PR [#3](undefined) in [aldrichtr/water](https://github.com/aldrichtr/water)<br>
-4. ❗️ Opened issue [#2](https://github.com/aldrichtr/water/issues/2) in [aldrichtr/water](https://github.com/aldrichtr/water)<br>
-5. ⭐ Starred [chr1st0scli/RainLisp](https://github.com/chr1st0scli/RainLisp)<br>
-6. ⭐ Starred [sebastienros/parlot](https://github.com/sebastienros/parlot)<br>
-7. ⭐ Starred [spacecowboy/orgparser](https://github.com/spacecowboy/orgparser)<br>
-8. ⭐ Starred [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)<br>
-9. ⬆️ Pushed undefined commit(s) to [aldrichtr/OrgMode.Net](https://github.com/aldrichtr/OrgMode.Net)<br>
-10. 💪 Opened PR [#1](undefined) in [aldrichtr/OrgMode.Net](https://github.com/aldrichtr/OrgMode.Net)<br>
+1. ⭐ Starred [handlebargh/yatto](https://github.com/handlebargh/yatto)<br>
+2. ⭐ Starred [knqyf263/pet](https://github.com/knqyf263/pet)<br>
+3. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+4. ⭐ Starred [nightroman/editorconfig-core-net](https://github.com/nightroman/editorconfig-core-net)<br>
+5. ⭐ Starred [microsoft/testfx](https://github.com/microsoft/testfx)<br>
+6. ⭐ Starred [nohwnd/DotnetTestColors](https://github.com/nohwnd/DotnetTestColors)<br>
+7. ⭐ Starred [cldwalker/logseq-query](https://github.com/cldwalker/logseq-query)<br>
+8. ⭐ Starred [jrswab/lsq](https://github.com/jrswab/lsq)<br>
+9. ⬆️ Pushed undefined commit(s) to [aldrichtr/copilot-configuration](https://github.com/aldrichtr/copilot-configuration)<br>
+10. ⭐ Starred [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 26th, 2025, 7:54:56 AM
+Last Updated: Sunday, November 2nd, 2025, 7:53:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
