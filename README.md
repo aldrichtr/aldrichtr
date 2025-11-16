@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [steipete/crush](https://github.com/steipete/crush)<br>
-2. ❗️ Opened issue [#589](https://github.com/ViscousPot/GitSync/issues/589) in [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync)<br>
-3. ⭐ Starred [handlebargh/yatto](https://github.com/handlebargh/yatto)<br>
-4. ⭐ Starred [knqyf263/pet](https://github.com/knqyf263/pet)<br>
-5. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
-6. ⭐ Starred [nightroman/editorconfig-core-net](https://github.com/nightroman/editorconfig-core-net)<br>
-7. ⭐ Starred [microsoft/testfx](https://github.com/microsoft/testfx)<br>
-8. ⭐ Starred [nohwnd/DotnetTestColors](https://github.com/nohwnd/DotnetTestColors)<br>
-9. ⭐ Starred [cldwalker/logseq-query](https://github.com/cldwalker/logseq-query)<br>
-10. ⭐ Starred [jrswab/lsq](https://github.com/jrswab/lsq)<br>
+1. ⭐ Starred [emacsmirror/org-mcp](https://github.com/emacsmirror/org-mcp)<br>
+2. ⭐ Starred [steipete/crush](https://github.com/steipete/crush)<br>
+3. ❗️ Opened issue [#589](https://github.com/ViscousPot/GitSync/issues/589) in [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync)<br>
+4. ⭐ Starred [handlebargh/yatto](https://github.com/handlebargh/yatto)<br>
+5. ⭐ Starred [knqyf263/pet](https://github.com/knqyf263/pet)<br>
+6. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+7. ⭐ Starred [nightroman/editorconfig-core-net](https://github.com/nightroman/editorconfig-core-net)<br>
+8. ⭐ Starred [microsoft/testfx](https://github.com/microsoft/testfx)<br>
+9. ⭐ Starred [nohwnd/DotnetTestColors](https://github.com/nohwnd/DotnetTestColors)<br>
+10. ⭐ Starred [cldwalker/logseq-query](https://github.com/cldwalker/logseq-query)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 9th, 2025, 7:54:46 AM
+Last Updated: Sunday, November 16th, 2025, 7:55:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
