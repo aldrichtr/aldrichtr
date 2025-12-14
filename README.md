@@ -18,16 +18,16 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#825](https://github.com/orgzly-revived/orgzly-android-revived/issues/825) in [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived)<br>
-2. ⭐ Starred [timabell/gitopolis](https://github.com/timabell/gitopolis)<br>
-3. 🔱 Forked [aldrichtr/BrainTool](https://github.com/aldrichtr/BrainTool) from [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool)<br>
-4. ⭐ Starred [jamescherti/pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)<br>
-5. ⭐ Starred [emacsmirror/org-mcp](https://github.com/emacsmirror/org-mcp)<br>
-6. ⭐ Starred [steipete/crush](https://github.com/steipete/crush)<br>
+1. ⭐ Starred [corgi-emacs/corkey](https://github.com/corgi-emacs/corkey)<br>
+2. 🔱 Forked [aldrichtr/my-site-start](https://github.com/aldrichtr/my-site-start) from [tripleee/my-site-start](https://github.com/tripleee/my-site-start)<br>
+3. ❗️ Opened issue [#825](https://github.com/orgzly-revived/orgzly-android-revived/issues/825) in [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived)<br>
+4. ⭐ Starred [timabell/gitopolis](https://github.com/timabell/gitopolis)<br>
+5. 🔱 Forked [aldrichtr/BrainTool](https://github.com/aldrichtr/BrainTool) from [tconfrey/BrainTool](https://github.com/tconfrey/BrainTool)<br>
+6. ⭐ Starred [jamescherti/pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 7th, 2025, 7:56:36 AM
+Last Updated: Sunday, December 14th, 2025, 7:58:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
