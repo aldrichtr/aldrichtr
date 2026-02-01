@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aldrichtr/emacs.d](https://github.com/aldrichtr/emacs.d)<br>
-2. ⭐ Starred [davidfowl/DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns)<br>
-3. ⭐ Starred [davidfowl/MinRT](https://github.com/davidfowl/MinRT)<br>
-4. ⭐ Starred [d12frosted/vui.el](https://github.com/d12frosted/vui.el)<br>
-5. ⭐ Starred [ArthurHeymans/emacs-tramp-rpc](https://github.com/ArthurHeymans/emacs-tramp-rpc)<br>
-6. ⬆️ Pushed undefined commit(s) to [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-7. 👍 Approved [#159](https://github.com/aldrichtr/stitch/pull/159#pullrequestreview-3684781031) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-8. ⬆️ Pushed undefined commit(s) to [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-9. 👍 Approved [#158](https://github.com/aldrichtr/stitch/pull/158#pullrequestreview-3684780120) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-10. ⬆️ Pushed undefined commit(s) to [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
+1. ⭐ Starred [microsoft/agent-academy](https://github.com/microsoft/agent-academy)<br>
+2. ⭐ Starred [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp)<br>
+3. ⭐ Starred [microsoft/hve-core](https://github.com/microsoft/hve-core)<br>
+4. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)<br>
+5. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
+6. ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
+7. ⭐ Starred [kevinslin/skills](https://github.com/kevinslin/skills)<br>
+8. ⭐ Starred [jcs090218/csharp-tree-sitter](https://github.com/jcs090218/csharp-tree-sitter)<br>
+9. ⭐ Starred [jcs090218/setup-emacs-windows](https://github.com/jcs090218/setup-emacs-windows)<br>
+10. ⭐ Starred [DarthFennec/highlight-indent-guides](https://github.com/DarthFennec/highlight-indent-guides)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 25th, 2026, 8:04:38 AM
+Last Updated: Sunday, February 1st, 2026, 8:13:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
