@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/agent-academy](https://github.com/microsoft/agent-academy)<br>
-2. ⭐ Starred [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp)<br>
-3. ⭐ Starred [microsoft/hve-core](https://github.com/microsoft/hve-core)<br>
-4. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)<br>
-5. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
-6. ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
-7. ⭐ Starred [kevinslin/skills](https://github.com/kevinslin/skills)<br>
-8. ⭐ Starred [jcs090218/csharp-tree-sitter](https://github.com/jcs090218/csharp-tree-sitter)<br>
-9. ⭐ Starred [jcs090218/setup-emacs-windows](https://github.com/jcs090218/setup-emacs-windows)<br>
-10. ⭐ Starred [DarthFennec/highlight-indent-guides](https://github.com/DarthFennec/highlight-indent-guides)<br>
+1. ⭐ Starred [emacsattic/no-clown-fiesta-theme](https://github.com/emacsattic/no-clown-fiesta-theme)<br>
+2. ⭐ Starred [emacsorphanage/evil-textobj-line](https://github.com/emacsorphanage/evil-textobj-line)<br>
+3. ⭐ Starred [victorhge/iedit](https://github.com/victorhge/iedit)<br>
+4. ⭐ Starred [xenodium/org-block-capf](https://github.com/xenodium/org-block-capf)<br>
+5. ⬆️ Pushed undefined commit(s) to [aldrichtr/emacs.d](https://github.com/aldrichtr/emacs.d)<br>
+6. ⭐ Starred [alphapapa/taxy.el](https://github.com/alphapapa/taxy.el)<br>
+7. ⬆️ Pushed undefined commit(s) to [aldrichtr/emacs.d](https://github.com/aldrichtr/emacs.d)<br>
+8. ⬆️ Pushed undefined commit(s) to [aldrichtr/OrgMode.Net](https://github.com/aldrichtr/OrgMode.Net)<br>
+9. ⭐ Starred [maitria/avi](https://github.com/maitria/avi)<br>
+10. ⭐ Starred [dusanx/elsqlite](https://github.com/dusanx/elsqlite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 1st, 2026, 8:13:08 AM
+Last Updated: Sunday, February 8th, 2026, 8:13:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
