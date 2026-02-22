@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HeyItsGilbert/shtab](https://github.com/HeyItsGilbert/shtab)<br>
-2. ⭐ Starred [ugurkocde/TenantBaseline](https://github.com/ugurkocde/TenantBaseline)<br>
-3. ⭐ Starred [BetterThanTomorrow/joyride](https://github.com/BetterThanTomorrow/joyride)<br>
-4. ⭐ Starred [BuddhiLW/clojure-elisp](https://github.com/BuddhiLW/clojure-elisp)<br>
-5. ⬆️ Pushed undefined commit(s) to [aldrichtr/emacs.d](https://github.com/aldrichtr/emacs.d)<br>
-6. ⭐ Starred [areina/elfeed-cljsrn](https://github.com/areina/elfeed-cljsrn)<br>
-7. ⬆️ Pushed undefined commit(s) to [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-8. 👍 Approved [#163](https://github.com/aldrichtr/stitch/pull/163#pullrequestreview-3781484668) in [aldrichtr/stitch](https://github.com/aldrichtr/stitch)<br>
-9. ⭐ Starred [danrobi11/emacs-appimage](https://github.com/danrobi11/emacs-appimage)<br>
-10. ⬆️ Pushed undefined commit(s) to [aldrichtr/emacs.d](https://github.com/aldrichtr/emacs.d)<br>
+1. ⭐ Starred [l3nz/cli-matic](https://github.com/l3nz/cli-matic)<br>
+2. ⭐ Starred [eval-exec/neomacs](https://github.com/eval-exec/neomacs)<br>
+3. ⭐ Starred [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)<br>
+4. ⭐ Starred [weavejester/eftest](https://github.com/weavejester/eftest)<br>
+5. ⭐ Starred [weavejester/progrock](https://github.com/weavejester/progrock)<br>
+6. ⭐ Starred [coleam00/second-brain-skills](https://github.com/coleam00/second-brain-skills)<br>
+7. ⭐ Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br>
+8. ⭐ Starred [gannonh/memento-mcp](https://github.com/gannonh/memento-mcp)<br>
+9. 💪 Opened PR [#1](undefined) in [aldrichtr/hkdb](https://github.com/aldrichtr/hkdb)<br>
+10. ⬆️ Pushed undefined commit(s) to [aldrichtr/hkdb](https://github.com/aldrichtr/hkdb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 15th, 2026, 8:14:31 AM
+Last Updated: Sunday, February 22nd, 2026, 8:13:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
