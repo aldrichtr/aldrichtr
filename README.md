@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [purcell/setup-emacs](https://github.com/purcell/setup-emacs)<br>
-2. ⭐ Starred [laurynas-biveinis/org-mcp](https://github.com/laurynas-biveinis/org-mcp)<br>
-3. ⭐ Starred [marlocarlo/psmux](https://github.com/marlocarlo/psmux)<br>
-4. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)<br>
-5. ⭐ Starred [bhauman/clojure-mcp](https://github.com/bhauman/clojure-mcp)<br>
-6. ⬆️ Pushed undefined commit(s) to [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-7. ⬆️ Pushed undefined commit(s) to [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-8. ⬆️ Pushed undefined commit(s) to [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-9. ⬆️ Pushed undefined commit(s) to [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-10. ⬆️ Pushed undefined commit(s) to [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+1. ⭐ Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)<br>
+2. ⭐ Starred [DataficationSDK/Verso](https://github.com/DataficationSDK/Verso)<br>
+3. ⭐ Starred [candid82/joker](https://github.com/candid82/joker)<br>
+4. ⭐ Starred [metosin/jsonista](https://github.com/metosin/jsonista)<br>
+5. ⭐ Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)<br>
+6. ⭐ Starred [mariusgreuel/tree-sitter-dotnet-bindings](https://github.com/mariusgreuel/tree-sitter-dotnet-bindings)<br>
+7. ⭐ Starred [rjmholt/Specter](https://github.com/rjmholt/Specter)<br>
+8. ⬆️ Pushed undefined commit(s) to [aldrichtr/emacs.d](https://github.com/aldrichtr/emacs.d)<br>
+9. ❗️ Opened issue [#768](https://github.com/amnweb/yasb/issues/768) in [amnweb/yasb](https://github.com/amnweb/yasb)<br>
+10. 💪 Opened PR [#2](undefined) in [aldrichtr/hkdb](https://github.com/aldrichtr/hkdb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 1st, 2026, 8:10:05 AM
+Last Updated: Sunday, March 8th, 2026, 8:10:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
