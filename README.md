@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)<br>
-2. ⭐ Starred [DataficationSDK/Verso](https://github.com/DataficationSDK/Verso)<br>
-3. ⭐ Starred [candid82/joker](https://github.com/candid82/joker)<br>
-4. ⭐ Starred [metosin/jsonista](https://github.com/metosin/jsonista)<br>
-5. ⭐ Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)<br>
-6. ⭐ Starred [mariusgreuel/tree-sitter-dotnet-bindings](https://github.com/mariusgreuel/tree-sitter-dotnet-bindings)<br>
-7. ⭐ Starred [rjmholt/Specter](https://github.com/rjmholt/Specter)<br>
-8. ⬆️ Pushed undefined commit(s) to [aldrichtr/emacs.d](https://github.com/aldrichtr/emacs.d)<br>
-9. ❗️ Opened issue [#768](https://github.com/amnweb/yasb/issues/768) in [amnweb/yasb](https://github.com/amnweb/yasb)<br>
-10. 💪 Opened PR [#2](undefined) in [aldrichtr/hkdb](https://github.com/aldrichtr/hkdb)<br>
+1. ⭐ Starred [profMagija/dotnet-tree-sitter](https://github.com/profMagija/dotnet-tree-sitter)<br>
+2. ⭐ Starred [TRGamer-tech/FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler)<br>
+3. ⭐ Starred [dkattan/GitSplit](https://github.com/dkattan/GitSplit)<br>
+4. ⭐ Starred [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design)<br>
+5. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)<br>
+6. ⭐ Starred [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)<br>
+7. ⭐ Starred [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)<br>
+8. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)<br>
+9. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
+10. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 8th, 2026, 8:10:55 AM
+Last Updated: Sunday, March 15th, 2026, 8:16:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
