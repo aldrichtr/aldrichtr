@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tobi/qmd](https://github.com/tobi/qmd)<br>
-2. ⭐ Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)<br>
-3. ⭐ Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)<br>
-4. ⭐ Starred [CompassSecurity/EntraFalcon](https://github.com/CompassSecurity/EntraFalcon)<br>
-5. ⭐ Starred [mdgrs-mei/GliderUI](https://github.com/mdgrs-mei/GliderUI)<br>
-6. 💪 Opened PR [#1](undefined) in [aldrichtr/obsidian-vimrc-support](https://github.com/aldrichtr/obsidian-vimrc-support)<br>
-7. ⭐ Starred [threatgrid/ctia](https://github.com/threatgrid/ctia)<br>
-8. 🔱 Forked [aldrichtr/obsidian-vimrc-support](https://github.com/aldrichtr/obsidian-vimrc-support) from [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)<br>
-9. ⬆️ Pushed undefined commit(s) to [aldrichtr/emacs.d](https://github.com/aldrichtr/emacs.d)<br>
-10. ⭐ Starred [profMagija/dotnet-tree-sitter](https://github.com/profMagija/dotnet-tree-sitter)<br>
+1. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
+2. ⭐ Starred [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery)<br>
+3. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
+4. ⭐ Starred [tobi/qmd](https://github.com/tobi/qmd)<br>
+5. ⭐ Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)<br>
+6. ⭐ Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)<br>
+7. ⭐ Starred [CompassSecurity/EntraFalcon](https://github.com/CompassSecurity/EntraFalcon)<br>
+8. ⭐ Starred [mdgrs-mei/GliderUI](https://github.com/mdgrs-mei/GliderUI)<br>
+9. 💪 Opened PR [#1](undefined) in [aldrichtr/obsidian-vimrc-support](https://github.com/aldrichtr/obsidian-vimrc-support)<br>
+10. ⭐ Starred [threatgrid/ctia](https://github.com/threatgrid/ctia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 22nd, 2026, 8:14:30 AM
+Last Updated: Sunday, March 29th, 2026, 8:29:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
