@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
-2. ⭐ Starred [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery)<br>
-3. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
-4. ⭐ Starred [tobi/qmd](https://github.com/tobi/qmd)<br>
-5. ⭐ Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)<br>
-6. ⭐ Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)<br>
-7. ⭐ Starred [CompassSecurity/EntraFalcon](https://github.com/CompassSecurity/EntraFalcon)<br>
-8. ⭐ Starred [mdgrs-mei/GliderUI](https://github.com/mdgrs-mei/GliderUI)<br>
-9. 💪 Opened PR [#1](undefined) in [aldrichtr/obsidian-vimrc-support](https://github.com/aldrichtr/obsidian-vimrc-support)<br>
-10. ⭐ Starred [threatgrid/ctia](https://github.com/threatgrid/ctia)<br>
+1. ❗️ Opened issue [#1757](https://github.com/callumalpass/tasknotes/issues/1757) in [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes)<br>
+2. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
+3. ⭐ Starred [callumalpass/mdbase](https://github.com/callumalpass/mdbase)<br>
+4. ⭐ Starred [callumalpass/tasknotes-spec](https://github.com/callumalpass/tasknotes-spec)<br>
+5. ⭐ Starred [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes)<br>
+6. 🔱 Forked [aldrichtr/obsidian-link-by-id](https://github.com/aldrichtr/obsidian-link-by-id) from [dylanbretzjr/obsidian-link-by-id](https://github.com/dylanbretzjr/obsidian-link-by-id)<br>
+7. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
+8. ⭐ Starred [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery)<br>
+9. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
+10. ⭐ Starred [tobi/qmd](https://github.com/tobi/qmd)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 29th, 2026, 8:29:42 AM
+Last Updated: Sunday, April 5th, 2026, 8:31:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
