@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1757](https://github.com/callumalpass/tasknotes/issues/1757) in [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes)<br>
-2. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
-3. ⭐ Starred [callumalpass/mdbase](https://github.com/callumalpass/mdbase)<br>
-4. ⭐ Starred [callumalpass/tasknotes-spec](https://github.com/callumalpass/tasknotes-spec)<br>
-5. ⭐ Starred [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes)<br>
-6. 🔱 Forked [aldrichtr/obsidian-link-by-id](https://github.com/aldrichtr/obsidian-link-by-id) from [dylanbretzjr/obsidian-link-by-id](https://github.com/dylanbretzjr/obsidian-link-by-id)<br>
-7. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
-8. ⭐ Starred [InlitX/Obsidian-Dashboard-Gallery](https://github.com/InlitX/Obsidian-Dashboard-Gallery)<br>
-9. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
-10. ⭐ Starred [tobi/qmd](https://github.com/tobi/qmd)<br>
+1. ⭐ Starred [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler)<br>
+2. ⭐ Starred [jarvesusaram99/Linux-on-Samsung](https://github.com/jarvesusaram99/Linux-on-Samsung)<br>
+3. ⭐ Starred [ember-theme/emacs](https://github.com/ember-theme/emacs)<br>
+4. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)<br>
+5. 💪 Opened PR [#10](undefined) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+6. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+7. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+8. 💪 Opened PR [#9](undefined) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+9. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+10. ✔️ Closed issue [#7](https://github.com/aldrichtr/PSMarkdig/issues/7) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 5th, 2026, 8:31:12 AM
+Last Updated: Sunday, April 12th, 2026, 8:35:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
