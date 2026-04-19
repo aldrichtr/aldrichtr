@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler)<br>
-2. ⭐ Starred [jarvesusaram99/Linux-on-Samsung](https://github.com/jarvesusaram99/Linux-on-Samsung)<br>
-3. ⭐ Starred [ember-theme/emacs](https://github.com/ember-theme/emacs)<br>
-4. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)<br>
-5. 💪 Opened PR [#10](undefined) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-6. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-7. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-8. 💪 Opened PR [#9](undefined) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+1. 💬 Commented on [#1775](https://github.com/callumalpass/tasknotes/pull/1775#issuecomment-4253717861) in [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes)<br>
+2. 💬 Commented on [#1027](https://github.com/PowerShell/Win32-OpenSSH/issues/1027#issuecomment-4232423572) in [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH)<br>
+3. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+4. ⭐ Starred [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler)<br>
+5. ⭐ Starred [techjarves/Linux-on-Samsung](https://github.com/techjarves/Linux-on-Samsung)<br>
+6. ⭐ Starred [ember-theme/emacs](https://github.com/ember-theme/emacs)<br>
+7. ⭐ Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)<br>
+8. 💪 Opened PR [#10](undefined) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
 9. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-10. ✔️ Closed issue [#7](https://github.com/aldrichtr/PSMarkdig/issues/7) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+10. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 12th, 2026, 8:35:31 AM
+Last Updated: Sunday, April 19th, 2026, 8:35:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
