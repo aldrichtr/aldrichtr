@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
+1. ⬆️ Pushed undefined commit(s) to [aldrichtr/devkit-configuration](https://github.com/aldrichtr/devkit-configuration)<br>
 2. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
-3. ⭐ Starred [microsoft/mxc](https://github.com/microsoft/mxc)<br>
+3. 💪 Opened PR [#2](undefined) in [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
 4. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
-5. ⬆️ Pushed undefined commit(s) to [aldrichtr/StringTemplate4](https://github.com/aldrichtr/StringTemplate4)<br>
-6. 💪 Opened PR [#1](undefined) in [aldrichtr/StringTemplate4](https://github.com/aldrichtr/StringTemplate4)<br>
-7. 🔱 Forked [aldrichtr/StringTemplate4](https://github.com/aldrichtr/StringTemplate4) from [undefined](https://github.com/undefined)<br>
+5. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
+6. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
+7. ⭐ Starred [microsoft/mxc](https://github.com/microsoft/mxc)<br>
 8. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
-9. 💪 Opened PR [#1](undefined) in [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
-10. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
+9. ⬆️ Pushed undefined commit(s) to [aldrichtr/StringTemplate4](https://github.com/aldrichtr/StringTemplate4)<br>
+10. 💪 Opened PR [#1](undefined) in [aldrichtr/StringTemplate4](https://github.com/aldrichtr/StringTemplate4)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 14th, 2026, 9:32:38 AM
+Last Updated: Sunday, June 21st, 2026, 9:34:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
