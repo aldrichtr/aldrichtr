@@ -18,20 +18,19 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [danielo515/obsidian-modal-form](https://github.com/danielo515/obsidian-modal-form)<br>
-2. ⭐ Starred [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator)<br>
-3. ⭐ Starred [obsidian-community/web-clipper-templates](https://github.com/obsidian-community/web-clipper-templates)<br>
-4. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+1. ⭐ Starred [jborean93/PowerShell-Yayaml](https://github.com/jborean93/PowerShell-Yayaml)<br>
+2. ⭐ Starred [danielo515/obsidian-modal-form](https://github.com/danielo515/obsidian-modal-form)<br>
+3. ⭐ Starred [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator)<br>
+4. ⭐ Starred [obsidian-community/web-clipper-templates](https://github.com/obsidian-community/web-clipper-templates)<br>
 5. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-6. ✔️ Closed issue [#11](https://github.com/aldrichtr/PSMarkdig/issues/11) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-7. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+6. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+7. ✔️ Closed issue [#11](https://github.com/aldrichtr/PSMarkdig/issues/11) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
 8. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-9. ⬆️ Pushed undefined commit(s) to [aldrichtr/devkit-configuration](https://github.com/aldrichtr/devkit-configuration)<br>
-10. ⬆️ Pushed undefined commit(s) to [aldrichtr/dotfiles.nvim](https://github.com/aldrichtr/dotfiles.nvim)<br>
+9. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 12th, 2026, 8:58:07 AM
+Last Updated: Sunday, July 19th, 2026, 8:55:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
