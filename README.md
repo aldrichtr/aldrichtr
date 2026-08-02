@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-2. ❌ Closed PR [#38](undefined) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-3. ❌ Closed PR [#36](undefined) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-4. ❌ Closed PR [#35](undefined) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-5. ❌ Closed PR [#31](undefined) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-6. ⭐ Starred [callumalpass/mdbase-app](https://github.com/callumalpass/mdbase-app)<br>
-7. ⭐ Starred [jborean93/PowerShell-Yayaml](https://github.com/jborean93/PowerShell-Yayaml)<br>
-8. ⭐ Starred [danielo515/obsidian-modal-form](https://github.com/danielo515/obsidian-modal-form)<br>
-9. ⭐ Starred [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator)<br>
-10. ⭐ Starred [obsidian-community/web-clipper-templates](https://github.com/obsidian-community/web-clipper-templates)<br>
+1. ❗️ Opened issue [#91](https://github.com/saberzero1/motions/issues/91) in [saberzero1/motions](https://github.com/saberzero1/motions)<br>
+2. ❗️ Opened issue [#90](https://github.com/saberzero1/motions/issues/90) in [saberzero1/motions](https://github.com/saberzero1/motions)<br>
+3. ⭐ Starred [Fjx-dylanZ/obsidian-drawer-explorer](https://github.com/Fjx-dylanZ/obsidian-drawer-explorer)<br>
+4. ⭐ Starred [saberzero1/motions](https://github.com/saberzero1/motions)<br>
+5. ⬆️ Pushed undefined commit(s) to [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+6. ❌ Closed PR [#38](undefined) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+7. ❌ Closed PR [#36](undefined) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+8. ❌ Closed PR [#35](undefined) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+9. ❌ Closed PR [#31](undefined) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+10. ⭐ Starred [callumalpass/mdbase-app](https://github.com/callumalpass/mdbase-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 26th, 2026, 9:01:39 AM
+Last Updated: Sunday, August 2nd, 2026, 9:00:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
