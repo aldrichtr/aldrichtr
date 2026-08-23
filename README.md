@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [aldrichtr/stencil](https://github.com/aldrichtr/stencil)<br>
-2. ⬆️ Pushed undefined commit(s) to [aldrichtr/devkit-configuration](https://github.com/aldrichtr/devkit-configuration)<br>
-3. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-4. ✔️ Closed issue [#16](https://github.com/aldrichtr/PSMarkdig/issues/16) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-5. 💪 Opened PR [#17](undefined) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-6. ❗️ Opened issue [#16](https://github.com/aldrichtr/PSMarkdig/issues/16) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+1. ⭐ Starred [NIST-SP-800-53-R5/NIST-SP-800-53-R5.github.io](https://github.com/NIST-SP-800-53-R5/NIST-SP-800-53-R5.github.io)<br>
+2. ❗️ Opened issue [#18](https://github.com/aldrichtr/PSMarkdig/issues/18) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+3. ⭐ Starred [olafhartong/Windows-Server-2003](https://github.com/olafhartong/Windows-Server-2003)<br>
+4. ⭐ Starred [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular)<br>
+5. ⬆️ Pushed undefined commit(s) to [aldrichtr/stencil](https://github.com/aldrichtr/stencil)<br>
+6. ⬆️ Pushed undefined commit(s) to [aldrichtr/devkit-configuration](https://github.com/aldrichtr/devkit-configuration)<br>
 7. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-8. ✔️ Closed issue [#14](https://github.com/aldrichtr/PSMarkdig/issues/14) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-9. 💪 Opened PR [#15](undefined) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-10. ❗️ Opened issue [#14](https://github.com/aldrichtr/PSMarkdig/issues/14) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+8. ✔️ Closed issue [#16](https://github.com/aldrichtr/PSMarkdig/issues/16) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+9. 💪 Opened PR [#17](undefined) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+10. ❗️ Opened issue [#16](https://github.com/aldrichtr/PSMarkdig/issues/16) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 16th, 2026, 8:03:05 AM
+Last Updated: Sunday, August 23rd, 2026, 8:04:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
