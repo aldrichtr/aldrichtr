@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NIST-SP-800-53-R5/NIST-SP-800-53-R5.github.io](https://github.com/NIST-SP-800-53-R5/NIST-SP-800-53-R5.github.io)<br>
-2. ❗️ Opened issue [#18](https://github.com/aldrichtr/PSMarkdig/issues/18) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-3. ⭐ Starred [olafhartong/Windows-Server-2003](https://github.com/olafhartong/Windows-Server-2003)<br>
-4. ⭐ Starred [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular)<br>
-5. ⬆️ Pushed undefined commit(s) to [aldrichtr/stencil](https://github.com/aldrichtr/stencil)<br>
-6. ⬆️ Pushed undefined commit(s) to [aldrichtr/devkit-configuration](https://github.com/aldrichtr/devkit-configuration)<br>
-7. ⬆️ Pushed undefined commit(s) to [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-8. ✔️ Closed issue [#16](https://github.com/aldrichtr/PSMarkdig/issues/16) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-9. 💪 Opened PR [#17](undefined) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
-10. ❗️ Opened issue [#16](https://github.com/aldrichtr/PSMarkdig/issues/16) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
+1. ⭐ Starred [repowise-dev/repowise](https://github.com/repowise-dev/repowise)<br>
+2. ⭐ Starred [phantomcyber/playbooks](https://github.com/phantomcyber/playbooks)<br>
+3. ⭐ Starred [rabobank-cdc/DeTTECT](https://github.com/rabobank-cdc/DeTTECT)<br>
+4. ⬆️ Pushed undefined commit(s) to [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+5. 💪 Opened PR [#3](undefined) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+6. ❗️ Opened issue [#2](https://github.com/aldrichtr/AnalyzerRules/issues/2) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+7. ❗️ Opened issue [#1](https://github.com/aldrichtr/AnalyzerRules/issues/1) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+8. ⬆️ Pushed undefined commit(s) to [aldrichtr/devkit-configuration](https://github.com/aldrichtr/devkit-configuration)<br>
+9. ⭐ Starred [NIST-SP-800-53-R5/NIST-SP-800-53-R5.github.io](https://github.com/NIST-SP-800-53-R5/NIST-SP-800-53-R5.github.io)<br>
+10. ❗️ Opened issue [#18](https://github.com/aldrichtr/PSMarkdig/issues/18) in [aldrichtr/PSMarkdig](https://github.com/aldrichtr/PSMarkdig)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 23rd, 2026, 8:04:34 AM
+Last Updated: Sunday, August 30th, 2026, 11:45:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
