@@ -18,20 +18,20 @@ Contact me on:
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets)<br>
-2. ❗️ Opened issue [#192](https://github.com/saberzero1/motions/issues/192) in [saberzero1/motions](https://github.com/saberzero1/motions)<br>
-3. ⭐ Starred [benjaminasterA/antigravity-awesome-skills](https://github.com/benjaminasterA/antigravity-awesome-skills)<br>
-4. ⭐ Starred [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)<br>
-5. ⭐ Starred [repowise-dev/repowise](https://github.com/repowise-dev/repowise)<br>
-6. ⭐ Starred [phantomcyber/playbooks](https://github.com/phantomcyber/playbooks)<br>
-7. ⭐ Starred [rabobank-cdc/DeTTECT](https://github.com/rabobank-cdc/DeTTECT)<br>
-8. ⬆️ Pushed undefined commit(s) to [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-9. 💪 Opened PR [#3](undefined) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
-10. ❗️ Opened issue [#2](https://github.com/aldrichtr/AnalyzerRules/issues/2) in [aldrichtr/AnalyzerRules](https://github.com/aldrichtr/AnalyzerRules)<br>
+1. ⭐ Starred [dfinke/psglow](https://github.com/dfinke/psglow)<br>
+2. ⭐ Starred [darrenjrobinson/PSMcpClient](https://github.com/darrenjrobinson/PSMcpClient)<br>
+3. ⭐ Starred [dfinke/PSMCP](https://github.com/dfinke/PSMCP)<br>
+4. ⭐ Starred [dfinke/Jev](https://github.com/dfinke/Jev)<br>
+5. ⭐ Starred [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)<br>
+6. ⭐ Starred [rushi-cheulwar/Obsidian-CSS-Snippets](https://github.com/rushi-cheulwar/Obsidian-CSS-Snippets)<br>
+7. ❗️ Opened issue [#192](https://github.com/saberzero1/motions/issues/192) in [saberzero1/motions](https://github.com/saberzero1/motions)<br>
+8. ⭐ Starred [benjaminasterA/antigravity-awesome-skills](https://github.com/benjaminasterA/antigravity-awesome-skills)<br>
+9. ⭐ Starred [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)<br>
+10. ⭐ Starred [repowise-dev/repowise](https://github.com/repowise-dev/repowise)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 20th, 2026, 11:13:50 AM
+Last Updated: Sunday, September 27th, 2026, 12:02:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
